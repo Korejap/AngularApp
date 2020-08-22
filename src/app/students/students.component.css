@@ -1,0 +1,20 @@
+.new-student {
+  margin-bottom: 25px;
+}
+
+label {
+  display: inline-block;
+  margin-top: 5px;
+  width: 50%;
+}
+
+input {
+  display: inline-block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  width: 49%;
+}
+
+.fields button {
+  width: 100%;
+}
